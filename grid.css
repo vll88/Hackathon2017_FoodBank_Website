@@ -1,0 +1,49 @@
+
+button {
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+
+h4 {
+  margin-top: 25px;
+}
+.row {
+  margin-bottom: 20px;
+}
+.row .row {
+  margin-top: 10px;
+  margin-bottom: 0;
+}
+[class*="col-"] {
+  padding-top: 200px;
+  padding-bottom: 200px;
+}
+
+html {
+    background: grey;
+    background-image: linear-gradient(270deg, rgb(230, 233, 233) 0%, rgb(216, 221, 221) 100%);
+    -webkit-font-smoothing: antialiased;
+}
+
+body {
+    background: #fff;
+    color: #545454 ;
+    font-family: "Times New Roman", sans-serif;
+    font-size: 24px;
+    line-height: 1.5;
+    margin: auto;
+    max-width: 900px;
+    padding: 2em 2em 4em;
+}
+
+
+hr {
+  margin-top: 40px;
+  margin-bottom: 40px;
+}
